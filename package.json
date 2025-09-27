@@ -1,7 +1,7 @@
 {
   "name": "webrtc-signaling-server",
   "version": "1.0.0",
-  "description": "Простой сигнальный сервер для WebRTC на основе ws",
+  "description": "РџСЂРѕСЃС‚РѕР№ СЃРёРіРЅР°Р»СЊРЅС‹Р№ СЃРµСЂРІРµСЂ РґР»СЏ WebRTC РЅР° РѕСЃРЅРѕРІРµ ws",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
